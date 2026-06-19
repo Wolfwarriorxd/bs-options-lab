@@ -1,5 +1,7 @@
 # 📈 Black-Scholes Options Lab
 
+Author: Anish Deshmukh  Roll No: ED23B005, IIT Madras
+
 Full-suite European options pricing dashboard built with Python, Streamlit, and Plotly.
 
 ## Features
